@@ -10,4 +10,6 @@ Welcome to the Melkart Server files repo. Here you can find all the necessary fi
 
 ##Beta-Warning
 
-The mission files are still on very early stages, i'm currently working the economy so i will post updates soon. I'll also release the Central Economy files in case someone wants to collaborate with the project or make modifications for their server
+The mission files are still on very early stages, i'm currently working the economy so i will post updates soon. I'll also release the Central Economy files for those who want to make any modifications
+
+
