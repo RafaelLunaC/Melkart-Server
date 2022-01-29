@@ -16,7 +16,6 @@ The mission files are still early in development. Spawn values of items have bee
 ## NOTES
 - Spawn points are set only for events that are enabled by default, so be careful if you enable other events as they won't work properly.
 - Be careful when increasing the number of items since the map size and the amount of available points is far lower than Chernarus and this could affect server performance.
-- You can enable Trajectory events (mapgroupcluster is ready), just remember to adjust the amount in events.xml as they are by default following Chernarus values
 - ContaminatedAreas are disabled by default, this can be modified in future versions depending on how the map design progresses. Of course the servers owners can modify it and contaminate any part of the map.
 
 
