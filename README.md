@@ -6,7 +6,7 @@ Welcome to the Melkart Server Files Repo. Here you will find all the necessary f
 
 The mission files are still early in development. Spawn values of items have been configured taking into account the size of the map and the number of avaiable points, but these values will be balanced as in-game tests are carried out.
 
-* Mission files now avaiable for supporters on Discord. 
+
 *Economy Editor Files now avaiable for supporters on Discord.
 
 ##  INSTALLATION GUIDE
