@@ -1,3 +1,10 @@
+#1.05 BETA PATCH NOTES
+
+-Full types.xml update, all objects added to match the current Dayz 1.20 Patch.
+-Changes to the spawn values of several items to make the loot more balanced.
+-New Static Contaminated Areas: Just like in other maps, Melkart will have two contaminated areas which will be important not only to find certain weapons but also key items to access other areas that you will discover in the new update.
+-Active NBC items: Derived from the above, all objects related to contaminated areas are avaiable.
+
 # MELKART BETA SERVER FILES
 
 Welcome to the Melkart Server Files Repo. Here you will find all the necessary files and related info to set up your Dayz server using Melkart.
@@ -16,7 +23,6 @@ The mission files are still early in development. Spawn values of items have bee
 ## NOTES
 - Spawn points are set only for events that are enabled by default, so be careful if you enable other events as they won't work properly.
 - Be careful when increasing the number of items since the map size and the amount of available points is far lower than Chernarus and this could affect server performance.
-- ContaminatedAreas are disabled by default, this can be modified in future versions depending on how the map design progresses. Of course the servers owners can modify it and contaminate any part of the map.
 
 
 Downloading and repacking this mod or its content is not allowed. Use Steam Workshop collections!
