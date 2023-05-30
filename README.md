@@ -19,5 +19,3 @@ The mission files are still early in development. Spawn values of items have bee
 
 
 Downloading and repacking this mod or its content is not allowed. Use Steam Workshop collections!
-
-Remember to use the full version of the mission files, you have to unzip the .rar file, the version in the folder does not include the areaflags.map file due to Github file size limit
