@@ -8,7 +8,7 @@ The mission files are still early in development. Spawn values of items have bee
 
 ##  INSTALLATION GUIDE
 
-- Add @Melkart_beta to your server root, and remember adding the mod to your command line.
+- Add @Melkart_Official to your server root, and remember adding the mod to your command line.
 - Copy ralukas.bikey from the mod keys folder to your server root keys folder
 - Download the mission files and copy them inside your mpmissions folder
 - Replace the the mission files parameter in your serverDZ.cfg
